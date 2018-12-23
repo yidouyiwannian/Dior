@@ -1,0 +1,14 @@
+nav{
+    width:100%;
+}
+#butt{
+    width:10rem;
+    height:3rem;
+    background:#F0F0F0;
+    border-radius:2.5rem;
+    box-shadow:0 0 5px 0 #C8C8C8;
+}
+span img{
+    width:1.5rem;
+    height:1.5rem;
+}
